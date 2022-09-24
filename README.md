@@ -32,5 +32,4 @@
    - your labelmap. this might be classes.txt, predefined_classes.txt or something else.
 # Screenshots
 ![Screenshot#1](./ex.png)
-# Download Release
- [here](https://github.com/0chil/YOLO-TO-AUTOML/releases/download/1.0/Release.zip)
+
